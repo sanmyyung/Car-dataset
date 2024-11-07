@@ -41,3 +41,9 @@ The dataset contains information about various car models, including attributes 
 ### Q5: Adjust City MPG Values
 **Objective:** Increase all values in the MPG_City column by 3.
 
+![]()
+
+
+### Conclusion
+This project provided hands-on experience in data cleaning, transformation, and basic analysis with Python and Pandas. Each step allowed me to tackle a real-world data task, building skills that are directly applicable in data science and analysis roles.
+
